@@ -12,7 +12,7 @@ meses = ['ENERO', 'FEBRERO', 'MARZO', 'ABRIL', 'MAYO', 'JUNIO', 'JULIO', 'AGOSTO
          'NOVIEMBRE', 'DICIEMBRE']
 
 # La ruta en Windows se coloca con las diagonales normales para que no genere un problema de sintaxis con esta caracter "\".
-carpetaArchivos = '/Users/ALEJANDRO/Desktop/remplazarNombre/DocumentosPDF_Pares'
+carpetaArchivos = '/Users/ALEJANDRO/Desktop/remplazarNombre/DocumentoFechas'
 
 nueva_ruta = os.path.join(carpetaArchivos, "ordenArchivos")
 
